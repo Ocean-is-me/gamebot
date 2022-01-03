@@ -47,6 +47,7 @@ We surveyed over 450 people on Reddit. You have to guess what percentage of them
 Two players are randomly chosen to face off, and have to submit answers to a given prompt. The rest of the players vote on their favorite, and the winner gets a point. First to a configurable number of points wins.
 
 >  **Note:** More games are in development!
+dâu dâu Quang Huy nè hôm nay mình thấy cái source open này ổn nên chia sẻ cho mn coi nè
 
 # Commands
 
